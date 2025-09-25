@@ -1,3 +1,4 @@
 Hey! Im Good. > studentB.txt
 
 echo Hey! Im Good.
+I have updated myfile
